@@ -46,7 +46,7 @@ Requirements
 * A machine with a GPU - GPU memory requirements depend on size of input volume.
 
 * An installation of Matlab version R2019a/9.6 (newer and/or slightly older 
-version may also work, but have not been tried extensively).
+version may also work, but have not been tried extensively) with add-ons Image Processing Toolbox, Computer Vision Toolbox, Deep Learning Toolbox and Parallel Computing Toolbox
 
 
 *********************************************************
