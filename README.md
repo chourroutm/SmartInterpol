@@ -17,6 +17,13 @@ Please cite this paper if you use this software for your research!
 > [!NOTE]  
 > Ths branch is optimized for volumetric datasets which do not require the affine registration (which is specifically useful with histology data).
 
+> [!IMPORTANT]
+> On an HPC cluster, make sure to execute it as windowless mode:
+>
+> ```bash
+> nohup matlab -nodisplay -nosplash -r    "run('Run_Example.m'); exit" > output.log 2>&1 & 
+> ```
+
 ## Summary
 
 Smart Interpol is a semi-automated segmentation tool which, starting from a
