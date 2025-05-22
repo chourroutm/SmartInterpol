@@ -2,7 +2,7 @@ clear
 close all
 clc
 
-diary /data/output_from_SmartInterpol/batch_4917_5417.log
+diary /data/output_from_SmartInterpol/batch_1.log
 
 diary on
 
